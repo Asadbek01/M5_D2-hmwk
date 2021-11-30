@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-list-endpoints": "^6.0.0"
+  },
+  "name": "m5_d2-hmwk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asadbek01/M5_D2-hmwk.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asadbek01/M5_D2-hmwk/issues"
+  },
+  "homepage": "https://github.com/Asadbek01/M5_D2-hmwk#readme",
+  "description": ""
+}
