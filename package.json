@@ -4,7 +4,7 @@
     "express-list-endpoints": "^6.0.0",
     "uniqid": "^5.4.0"
   },
-  "name": "m5_d2-hmwk",
+  "name": "node",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
